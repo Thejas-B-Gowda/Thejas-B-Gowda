@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Python<br>💬 Ask me about Python, R, SQL,<br>📫 How to reach me thejasb30@gmail.com
+🌱 I'm currently learning Python<br>💬 Ask me about Python<br>📫 How to reach me thejasb30@gmail.com
 
 
 ## 🌐 Socials:
